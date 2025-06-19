@@ -1,4 +1,4 @@
-# 📘 Mon Projet Git
+# 📘 Mes Cours 2025
 
 ## 📝 Description
 Ce projet est une démonstration simple de l’utilisation de **Git** pour gérer les versions d’un projet.
@@ -10,12 +10,12 @@ Il inclut des exemples de :
 ## 💻 Installation
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/JudletS/mon-projet-git.git
+   git clone https://github.com/JudletS/mes-cours-2025.git
    ```
 
 2. Entrez dans le dossier :
    ```bash
-   cd mon-projet-git
+   cd mes-cours-2025
    ```
 
 ## 🚀 Utilisation
